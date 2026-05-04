@@ -26,6 +26,9 @@ The goal is to analyze sales data and generate business insights such as revenue
 
 ---
 
+## 📊 Architecture Diagram
+![Star Schema](star_schema.png)
+
 ## ⚙️ Features Implemented
 
 * Star Schema design
