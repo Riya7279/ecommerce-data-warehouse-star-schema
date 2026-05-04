@@ -99,4 +99,7 @@ ORDER BY revenue DESC;
 
 * Add ETL pipeline using Python (Pandas)
 * Implement Slowly Changing Dimensions (SCD)
-* Build dashboard using Power BI
+
+📁 Dataset
+
+Synthetic e-commerce dataset created for learning purposes.
